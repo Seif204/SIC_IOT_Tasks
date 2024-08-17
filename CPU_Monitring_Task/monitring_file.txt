@@ -1,0 +1,10 @@
+2024/08/17 12H 44M 09Scpu usage(%) : 2% 
+2024/08/17 12H 44M 11Scpu usage(%) : 2% 
+2024/08/17 12H 44M 13Scpu usage(%) : 1% 
+2024/08/17 12H 44M 15Scpu usage(%) : 4% 
+2024/08/17 12H 44M 17Scpu usage(%) : 7% 
+2024/08/17 12H 44M 19Scpu usage(%) : 2% 
+2024/08/17 12H 44M 21Scpu usage(%) : 2% 
+2024/08/17 12H 44M 23Scpu usage(%) : 2% 
+2024/08/17 12H 44M 25Scpu usage(%) : 2% 
+2024/08/17 12H 44M 27Scpu usage(%) : 3% 
